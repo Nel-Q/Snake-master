@@ -21,4 +21,4 @@ The opposite is for the right arrow key.<br>
 
 # Contact
 
-Email [Kelvin Forson](<mailto:KelvinForson2023@u.northwestern.edu>)  or [Nelson Kagimbi](<mailto:NelsonKagimbi@u.northwestern.edu>)for any contributions or just to discuss the snake game.
+Email [Kelvin Forson](<mailto:KelvinForson2023@u.northwestern.edu>)  or [Nelson Kagimbi](<mailto:NelsonKagimbi@u.northwestern.edu>) for any contributions or just to discuss the snake game.
